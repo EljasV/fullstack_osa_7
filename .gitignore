@@ -1,1 +1,4 @@
 /.idea/
+/blogapp/backend/.env
+/blogapp/backend/node_modules/
+/blogapp/frontend/node_modules/
